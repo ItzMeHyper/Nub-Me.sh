@@ -28,3 +28,11 @@ Enter first number:
 Enter second number:
 25
 Sum of 15 and 25 is 40
+
+-------------------- LargestOfTwo.sh --------------------
+
+Enter first number:
+8
+Enter second number:
+4
+8 is greater than 4

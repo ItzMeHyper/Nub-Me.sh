@@ -60,3 +60,9 @@ The first 5 Fibonacci numbers are:
 2
 3
 ```
+-------------------- Factorial.sh --------------------
+```
+Enter the number:
+5
+Factorial of 5 is 120
+```

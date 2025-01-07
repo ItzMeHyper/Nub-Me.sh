@@ -37,3 +37,15 @@ Enter second number:
 4
 8 is greater than 4
 ```
+
+-------------------- nNaturalNumbers.sh --------------------
+```
+Enter the limit:
+5
+The first 5 natural numbers are:
+1
+2
+3
+4
+5
+```

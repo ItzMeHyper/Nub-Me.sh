@@ -49,3 +49,14 @@ The first 5 natural numbers are:
 4
 5
 ```
+-------------------- Fibonacci.sh --------------------
+```
+Enter the limit:
+5
+The first 5 Fibonacci numbers are:
+0
+1
+1
+2
+3
+```

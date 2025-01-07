@@ -66,3 +66,17 @@ Enter the number:
 5
 Factorial of 5 is 120
 ```
+-------------------- SimpleCalculator.sh --------------------
+```
+Enter first number:
+6
+Enter second number:
+9
+Enter the operation to be performed:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+3
+Product of 6 and 9 is 54
+```
